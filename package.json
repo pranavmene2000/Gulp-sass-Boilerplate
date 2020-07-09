@@ -1,0 +1,29 @@
+{
+  "name": "fbdhshvcdhs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "bootstrap": "^5.0.0-alpha1",
+    "bootstrap-icons": "^1.0.0-alpha4",
+    "cssnano": "^4.1.10",
+    "gulp-concat": "^2.6.1",
+    "gulp-font-awesome-icons": "^1.1.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "popper.js": "^1.16.0"
+  }
+}

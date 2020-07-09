@@ -1,0 +1,62 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+
+body {
+  
+  background: linear-gradient(to right, #0F2027, #203A43,#2C5364);
+  justify-content: center;
+  align-items: center;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+// .content {
+//   background-color: #d3cdbf;
+//   padding: 3% 0;
+
+//   h1 {
+//     color: #4a3438;
+//     font-weight: bolder;
+//   }
+//   p{
+//       opacity: 0.9;
+//   }
+//   a.btn {
+//     background-color: #ea4c89;
+//     font-size: 20px;
+//   }
+// }
+
+.col-6{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.container{
+  position: relative;
+}
+.row{
+  margin-top: 10%;
+}
+.main .svg{
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: -1;
+}
+.main{
+  position: relative;
+  height: 100vh;
+}
+nav{
+  border-bottom: 4px solid #e9b118;
+}
+ul li{
+  font-size: 20px;
+}
+
+.navbar-brand{
+  font-size: 25px;
+}
