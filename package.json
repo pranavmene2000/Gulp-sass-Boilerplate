@@ -16,7 +16,7 @@
     "gulp-sass": "^4.1.0"
   },
   "dependencies": {
-    "autoprefixer": "^9.8.4",
+    "autoprefixer": "^9.8.8",
     "bootstrap": "^5.0.0-alpha1",
     "bootstrap-icons": "^1.0.0-alpha4",
     "cssnano": "^4.1.10",
